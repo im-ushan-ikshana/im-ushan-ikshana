@@ -6,7 +6,7 @@ I'm a 21-year-old undergraduate student from Sri Lanka, currently pursuing a deg
 
 - 🌍 **Location:** Sri Lanka
 - 🎓 **Education:** Undergraduate Student at the University of Kelaniya
-- ✉️ **Contact:** Feel free to reach out to me at ikushan23261m21@gmail.com
+- ✉️ **Contact:** Feel free to reach out to me at [Telegram](https://t.me/Im_Ushan_Ikshana)
 
 ## Interests
 
