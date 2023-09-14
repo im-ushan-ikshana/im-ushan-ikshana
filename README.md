@@ -1,23 +1,28 @@
-# Hi, I'm Ushan Ikshana! 👋
+<h1 align="center">Hi 👋, I'm Ushan Ikshana</h1>
+<h3 align="center">A undergraduate student from Sri Lanka</h3>
 
-I'm a 21-year-old undergraduate student from Sri Lanka, currently pursuing a degree in Management and Information Technology at the University of Kelaniya. Welcome to my GitHub profile! 😄
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-ushan-ikshana&label=Profile%20views&color=0e75b6&style=flat" alt="im-ushan-ikshana" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-ushan-ikshana" alt="im-ushan-ikshana" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+- 🌱 I’m currently learning **Java , C++**
 
 - 🌍 **Location:** Sri Lanka
 - 🎓 **Education:** Undergraduate Student at the University of Kelaniya
 - ✉️ **Contact:** Feel free to reach out to me at [Telegram](https://t.me/Im_Ushan_Ikshana)
 
-## Interests
+- ⚡ Fun fact **I'm a professional note-taker because my memory has an "auto-delete" feature. But hey, that's what keeps life exciting, right? 😂**
 
-I'm passionate about:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 💻 **Web Development:** Building websites and web applications is my creative outlet.
-- 🤖 **Automation:** I'm fascinated by the power of automation to simplify tasks and improve efficiency.
-- 🧠 **Artificial Intelligence (AI):** Exploring AI's potential to transform industries and solve complex problems.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Fun Fact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-ushan-ikshana&show_icons=true&locale=en&layout=compact" alt="im-ushan-ikshana" /></p>
 
-- 😅 **Fun Fact:** I'm always eager to learn new things, but I have a tendency to forget, so I rely on notes and reminders to stay organized. 📝
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-ushan-ikshana&show_icons=true&locale=en" alt="im-ushan-ikshana" /></p>
 
-Feel free to connect with me, explore my projects, or discuss tech and AI-related topics. Let's learn and grow together! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-ushan-ikshana&" alt="im-ushan-ikshana" /></p>
