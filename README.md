@@ -7,8 +7,6 @@
 - 🎓 **Education:** Undergraduate Student at the University of Kelaniya
 - ✉️ **Contact:** Feel free to reach out to me at [Telegram](https://t.me/Im_Ushan_Ikshana)
 
-- ⚡ Fun fact **I'm a professional note-taker because my memory has an "auto-delete" feature. But hey, that's what keeps life exciting, right? 😂**
-
 <p align="left">
 </p>
 
