@@ -39,7 +39,3 @@ Hey there! I'm **Ushan Ikshana**, a **3rd Year IT Student** and an active **FOSS
 
 ---
 
-## 📈 GitHub Activity:
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=im-ushan-ikshana&theme=react-dark&area=true)](https://github.com/im-ushan-ikshana)
-
----
