@@ -1,65 +1,41 @@
 # 💫 About Me:
-Hello! I'm **Ushan Ikshana**, a passionate **3rd Year IT Student** actively working on innovative system development projects and an **active member of the FOSS UOK Community**. I love exploring new technologies and collaborating with the open source community.
 
-- 🔭 **Current Project:** Developing a web-based Timetable Generation System that provides lecturers, students, and staff with customized, accessible schedules.
-- 🌱 **Learning:** Diving into Express JS, React, Tailwind CSS, Astro JS, and PostgreSQL databases.
-- 📚 **Interests:** Algorithms for scheduling, genetic algorithms, and improving user experiences in educational tools.
+> "Code like poetry should be short and concise, yet powerful and expressive."
+
+Hey there! I'm **Ushan Ikshana**, a **3rd Year IT Student** and an active **FOSS UOK Community** member. I'm passionate about system development, open-source contributions, and exploring cutting-edge technologies.
+
+- 🔭 **Current Project:** Web-based **Timetable Generation System** for lecturers, students, and staff.
+- 🌱 **Learning:** Express.js | React | Tailwind CSS | Astro.js | PostgreSQL
+- 📚 **Interests:** Scheduling algorithms, genetic algorithms.
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/im.ushan-ikshana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.ushan-ikshana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/im-ushan-ikshana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@im-ushan-ikshana)
+## 🌐 Connect With Me:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/im.ushan-ikshana) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/im.ushan-ikshana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/im-ushan-ikshana) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@im-ushan-ikshana)
 
 ---
 
 ## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)  
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)  
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)  
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)  
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)  
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)  
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)  
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)  
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)  
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white)  
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat-square&logo=xfce&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 🚀 Languages & Frameworks:
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+### 🎨 Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 🛠 Backend & Databases:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  ![Oracle Cloud](https://img.shields.io/badge/OracleCloud-F80000?style=flat&logo=oracle&logoColor=white)  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+
+### 🛠 Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.vercel.app/?user=im-ushan-ikshana&theme=highcontrast&hide_border=false)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ushan-ikshana&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=im-ushan-ikshana&theme=highcontrast&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ushan-ikshana&theme=highcontrast&hide_border=false&layout=compact)
 
 ---
 
@@ -67,4 +43,3 @@ Hello! I'm **Ushan Ikshana**, a passionate **3rd Year IT Student** actively work
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=im-ushan-ikshana&theme=react-dark&area=true)](https://github.com/im-ushan-ikshana)
 
 ---
-
