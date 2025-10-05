@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./src/im-ushan-ikshana.png" alt="Banner" width="600px" />
+</p>
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=im-ushan-ikshana.im-ushan-ikshana" />
   <br>
