@@ -18,19 +18,6 @@
 
 ---
 
-> [!NOTE]\
-> **Personal Info**
->
-> ```text
-> Name            : Ushan Ikshana
-> GitHub Username : im-ushan-ikshana
-> Email           : ushan.ikshana.here@gmail.com
-> From            : Sri Lanka
-> Designation     : Undergraduate IT Student
-> ```
-
-
-
 <div align="center">
 
 <!-- Frontend -->
