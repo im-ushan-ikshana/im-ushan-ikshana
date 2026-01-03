@@ -15,13 +15,6 @@
 > 👋 Hello, World! I’m **Ushan Ikshana** 💻  
 > Welcome to my GitHub space! Excited to share my projects and journey in tech.
 
-- 🎓 3rd Year IT Undergraduate at **University of Kelaniya**  
-- 💼 Currently an **MIS Intern**, working with:  
-  - Networking  
-  - Windows System Administration  
-- 💡 Passionate about **Programming, Scripting & Information Security**  
-- 🚀 Always eager to **learn new technologies & explore cool tech stuff**  
-- 🎯 Focused on **career growth** and defining my **future path**
 
 ---
 
